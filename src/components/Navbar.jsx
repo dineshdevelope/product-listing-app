@@ -11,7 +11,7 @@ const Navbar = () => {
             <ul className="flex  justify-end space-x-10 font-semibold ">
               <li className="bg-white p-2 rounded hover:bg-gray-800 hover:text-white">
                 <a
-                  href="https://github.com/dineshdevelope/React-contact-form"
+                  href="https://github.com/dineshdevelope/product-listing-app"
                   target="blank"
                 >
                   GitHub
